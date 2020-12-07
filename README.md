@@ -2,10 +2,10 @@
 Adobe Flash reaches EOL (End Of Life) by the end of 2020. To be able to use Flash templates in CasparCG after that deadline the following things need to be done.
 * Update Flash Player ActiveX (.ocx) to the most recent version. That is version 32.0.0.445 or above.
 * Update CasparCG to a version that corrects [issue 1352](https://github.com/CasparCG/server/issues/1352).
-* Add a mms.cfg file to your Flash installation. This will keep Flash installed after the deadline and will let Flash player show CsaparCG's templates. 
+* Add a mms.cfg file to your Flash installation. This will keep Flash installed after the deadline and will let Flash player show CasparCG's templates. 
 
 ## Update Flash Player
-In Windows 10 let Windows Update install the Flash player. If you have anything blocking auto update, disable it and run "Search for Update". Make sure, that the Flash update is listed and let Windows proceed.
+In Windows 10, let Windows Update install the Flash player. If you have anything blocking auto update, disable it and run "Search for Update". Make sure, that the Flash update is listed and let Windows proceed.
 
 In Windows 7 use Internet Explorer to download and install the most recent Flash Player ActiveX. Do that __before the end of 2020__. Adobe will disable the download pages after that date.
 
