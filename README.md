@@ -16,6 +16,6 @@ At time of writing there is only a CasparCG version 2.3.0 available, that works 
 ## Add mms.cfg
 This is the tricky, but most important part. You can either read trough [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://www.dropbox.com/s/008k59xnhtfeulg/FlashCfgWriter.zip?dl=0)
 
-![Screenshot](https://www.dropbox.com/s/cpwuhda94cv0qza/FlashCfgWriter.png?dl=0)
+![Screenshot](https://user-images.githubusercontent.com/6048776/101338596-77635c80-387d-11eb-8462-44e860fd40b3.png)
 
 It has three buttons. The "Browse..." button let you browse to your CasparCG's template folder, as this folder must be added to the allow-list of Flash Player. The "Write Config" button let you write the mms.cfg files to the folders were they belong. The "Check Version" button shows the version of the installed Flash Player ActiveX.
