@@ -4,6 +4,8 @@ Adobe Flash reaches EOL (End Of Life) by the end of 2020. To be able to use Flas
 * Update CasparCG to a version that corrects [issue 1352](https://github.com/CasparCG/server/issues/1352).
 * Add a mms.cfg file to your Flash installation. This will keep Flash installed after the deadline and will let Flash player show CasparCG's templates. 
 
+Read the full text before proceeding and be aware of the __Disclaimer__ bellow.
+
 ## Update Flash Player
 In Windows 10, let Windows Update install the Flash player. If you have anything blocking auto update, disable it and run "Search for Update". Make sure, that the Flash update is listed and let Windows proceed.
 
@@ -19,3 +21,6 @@ This is the tricky, but most important part. You can either read trough [Adobe A
 ![Screenshot](https://user-images.githubusercontent.com/6048776/101338596-77635c80-387d-11eb-8462-44e860fd40b3.png)
 
 It has three buttons. The "Browse..." button let you browse to your CasparCG's template folder, as this folder must be added to the allow-list of Flash Player. The "Write Config" button let you write the mms.cfg files to the folders were they belong. The "Check Version" button shows the version of the installed Flash Player ActiveX.
+
+### Disclaimer
+Be aware, that if you add this mms.cfg files to your installation and __NOT__ use a supported CasparCG build, Flash templates will not work an more. So, if that applies to you, please only update Flash Player ActiveX, as this needs to be done asap, to make sure you do not miss it, before it gets unavailable.
