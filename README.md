@@ -23,4 +23,4 @@ This is the tricky, but most important part. You can either read through [Adobe 
 It has three buttons. The "Browse..." button let you browse to your CasparCG's template folder, as this folder must be added to the allow-list of Flash Player. The "Write Config" button let you write the mms.cfg files to the folders where they belong. The "Check Version" button shows the version of the installed Flash Player ActiveX.
 
 ### Disclaimer
-Be aware, that if you add this mms.cfg files to your installation and __NOT__ use a supported CasparCG build, Flash templates will not work an more. So, if that applies to you, please only update Flash Player ActiveX, as this needs to be done asap, to make sure you do not miss it, before it gets unavailable.
+Be aware, that if you add this mms.cfg files to your installation and __NOT__ use a supported CasparCG build, Flash templates will not work anymore. So, if that applies to you, please only update Flash Player ActiveX, as this needs to be done asap, to make sure you do not miss it, before it gets unavailable.
