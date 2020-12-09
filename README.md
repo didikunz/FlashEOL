@@ -16,11 +16,11 @@ At time of writing there is only a CasparCG version 2.3.0 available, that works 
 * [Version 2.3.0](http://casparcg.com/builds/CasparCG%20Server/master/casparcg-server-f4879b8ecde2f2b5b6916b73ffe46c304c8f6c64-windows.zip)
 
 ## Add mms.cfg
-This is the tricky, but most important part. You can either read trough [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://github.com/didikunz/FlashEOL/files/5654113/FlashCfgWriter.zip)
+This is the tricky, but most important part. You can either read through [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://github.com/didikunz/FlashEOL/files/5654113/FlashCfgWriter.zip)
 
 ![Screenshot](https://user-images.githubusercontent.com/6048776/101338596-77635c80-387d-11eb-8462-44e860fd40b3.png)
 
-It has three buttons. The "Browse..." button let you browse to your CasparCG's template folder, as this folder must be added to the allow-list of Flash Player. The "Write Config" button let you write the mms.cfg files to the folders were they belong. The "Check Version" button shows the version of the installed Flash Player ActiveX.
+It has three buttons. The "Browse..." button let you browse to your CasparCG's template folder, as this folder must be added to the allow-list of Flash Player. The "Write Config" button let you write the mms.cfg files to the folders where they belong. The "Check Version" button shows the version of the installed Flash Player ActiveX.
 
 ### Disclaimer
 Be aware, that if you add this mms.cfg files to your installation and __NOT__ use a supported CasparCG build, Flash templates will not work an more. So, if that applies to you, please only update Flash Player ActiveX, as this needs to be done asap, to make sure you do not miss it, before it gets unavailable.
