@@ -14,6 +14,8 @@ In Windows 7 use Internet Explorer to download and install the most recent Flash
 ## Update CasparCG
 At time of writing there is only a CasparCG version 2.3.0 available, that works with Flash after the deadline. The list bellow will be updated when other versions become available.
 * [Version 2.3.0](http://casparcg.com/builds/CasparCG%20Server/master/casparcg-server-f4879b8ecde2f2b5b6916b73ffe46c304c8f6c64-windows.zip)
+* [Version NRK 2.1.12](https://github.com/nrkno/tv-automation-casparcg-server/releases/tag/v2.1.12_NRK)
+* [Version 2.0.7.1](https://github.com/CasparCG/server/releases/tag/v2.0.7.1-flash-eol)
 
 ## Add mms.cfg
 This is the tricky, but most important part. You can either read through [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://github.com/didikunz/FlashEOL/files/5654113/FlashCfgWriter.zip)
