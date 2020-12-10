@@ -12,7 +12,8 @@ In Windows 10, let Windows Update install the Flash player. If you have anything
 In Windows 7 use Internet Explorer to download and install the most recent Flash Player ActiveX. Do that __before the end of 2020__. Adobe will disable the download pages after that date.
 
 ## Update CasparCG
-At time of writing there is only a CasparCG version 2.3.0 available, that works with Flash after the deadline. The list bellow will be updated when other versions become available.
+The list bellow shows where you can download the different versions, that fix the issue and will be updated when other versions become available.
+* Version 2.3.1 still in development
 * [Version 2.3.0](http://casparcg.com/builds/CasparCG%20Server/master/casparcg-server-f4879b8ecde2f2b5b6916b73ffe46c304c8f6c64-windows.zip)
 * [Version NRK 2.1.12](https://github.com/nrkno/tv-automation-casparcg-server/releases/tag/v2.1.12_NRK)
 * [Version 2.0.7.1](https://github.com/CasparCG/server/releases/tag/v2.0.7.1-flash-eol)
