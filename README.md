@@ -13,7 +13,7 @@ In Windows 7 use Internet Explorer to download and install the most recent Flash
 
 ## Update CasparCG
 The list bellow shows where you can download the different versions, that fix the issue and will be updated when other versions become available.
-* Version 2.3.1 still in development
+* [Version 2.3.1](https://github.com/CasparCG/server/releases/tag/v2.3.1-lts-stable)
 * [Version 2.3.0](http://casparcg.com/builds/CasparCG%20Server/master/casparcg-server-f4879b8ecde2f2b5b6916b73ffe46c304c8f6c64-windows.zip)
 * [Version NRK 2.1.12](https://github.com/nrkno/tv-automation-casparcg-server/releases/tag/v2.1.12_NRK)
 * [Version 2.0.7.1](https://github.com/CasparCG/server/releases/tag/v2.0.7.1-flash-eol)
