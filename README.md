@@ -19,7 +19,7 @@ The list bellow shows where you can download the different versions, that fix th
 * [Version 2.0.7.1](https://github.com/CasparCG/server/releases/tag/v2.0.7.1-flash-eol)
 
 ## Add mms.cfg
-This is the tricky, but most important part. You can either read through [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://github.com/didikunz/FlashEOL/files/5654113/FlashCfgWriter.zip)
+This is the tricky, but most important part. You can either read through [Adobe Administration Guide](https://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html) and create the files yourself or you can download and _Run As Administrator_ this little [program](https://github.com/didikunz/FlashEOL/files/5696433/FlashCfgWriter.zip)
 
 ![Screenshot](https://user-images.githubusercontent.com/6048776/101338596-77635c80-387d-11eb-8462-44e860fd40b3.png)
 
