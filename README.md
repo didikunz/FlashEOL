@@ -6,10 +6,10 @@ Adobe Flash reaches EOL (End Of Life) by the end of 2020. To be able to use Flas
 
 Read the full text before proceeding and be aware of the __Disclaimer__ bellow.
 
-## Update Flash Player
-In Windows 10, let Windows Update install the Flash player. If you have anything blocking auto update, disable it and run "Search for Update". Make sure, that the Flash update is listed and let Windows proceed.
+## Install Flash Player
+Windows 10 does not allow you to install Flash Player ActiveX from an old installation file. To be able to install the ActiveX anyway you download [FlashInstaller.zip](https://github.com/didikunz/FlashEOL/files/5781296/FlashInstaller.zip) and unzip it in a folder on your harddrive. Then "run as Administrator" FlashInstaller.exe. It will create the necessary folders and copy the necessary Flash.ocx files into them. Then it will register everything in Windows.
 
-In Windows 7 use Internet Explorer to download and install the most recent Flash Player ActiveX. Do that __before the end of 2020__. Adobe will disable the download pages after that date.
+In Windows 7 you can use an old Adobe Installer or try the same as above.
 
 ## Update CasparCG
 The list bellow shows where you can download the different versions, that fix the issue and will be updated when other versions become available.
